@@ -1,4 +1,4 @@
-# [Kumar Shubham Pratik Rauniyar]
+# Kumar Shubham Pratik Rauniyar
 
 ## About Me
 I am a highly skilled software engineer with 4 years of experience in the industry and a strong background in Node JS, React JS, MySQL, and Golang. I have a passion for writing clean, efficient, and scalable code, and I am always looking for ways to improve and grow both personally and professionally.
